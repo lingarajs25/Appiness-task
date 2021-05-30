@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Appiness-task/static/css/main.eb779aee.chunk.css",
+    "main.js": "/Appiness-task/static/js/main.56ad66b7.chunk.js",
+    "main.js.map": "/Appiness-task/static/js/main.56ad66b7.chunk.js.map",
+    "runtime-main.js": "/Appiness-task/static/js/runtime-main.12e6eb69.js",
+    "runtime-main.js.map": "/Appiness-task/static/js/runtime-main.12e6eb69.js.map",
+    "static/css/2.1468f438.chunk.css": "/Appiness-task/static/css/2.1468f438.chunk.css",
+    "static/js/2.d742555d.chunk.js": "/Appiness-task/static/js/2.d742555d.chunk.js",
+    "static/js/2.d742555d.chunk.js.map": "/Appiness-task/static/js/2.d742555d.chunk.js.map",
+    "index.html": "/Appiness-task/index.html",
+    "precache-manifest.2436f1cc0daec65ead741501b8703b39.js": "/Appiness-task/precache-manifest.2436f1cc0daec65ead741501b8703b39.js",
+    "service-worker.js": "/Appiness-task/service-worker.js",
+    "static/css/2.1468f438.chunk.css.map": "/Appiness-task/static/css/2.1468f438.chunk.css.map",
+    "static/css/main.eb779aee.chunk.css.map": "/Appiness-task/static/css/main.eb779aee.chunk.css.map",
+    "static/js/2.d742555d.chunk.js.LICENSE.txt": "/Appiness-task/static/js/2.d742555d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12e6eb69.js",
+    "static/css/2.1468f438.chunk.css",
+    "static/js/2.d742555d.chunk.js",
+    "static/css/main.eb779aee.chunk.css",
+    "static/js/main.56ad66b7.chunk.js"
+  ]
+}
