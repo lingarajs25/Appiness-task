@@ -1,0 +1,12 @@
+.navbar-default {
+    background: -webkit-linear-gradient(to left, #393d46, #474767 );
+    background: linear-gradient(to left, #393d46,#474767 , #74747c);
+    border-color: transparent;
+}
+
+.brand{
+		width:200px;
+		padding-left:0px;
+		border-top-right-radius: 55% 100%;
+		
+	}
